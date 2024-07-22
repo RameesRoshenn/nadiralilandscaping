@@ -1,0 +1,102 @@
+
+.portfolio-section {
+    position: relative;
+    background-image: url('../Assets/new.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 0, 100% 85%, 34% 99%, 34% 99%, 0 86%, 0 0);
+    height: 70vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .portfolio-content {
+    max-width: 700px;
+    text-align: left;
+    padding-left: 150px;
+    font-family: "Merriweather", serif;
+    font-style: italic;
+  }
+  
+  .portfolio-section h1 {
+    padding-top: 20px;
+    font-size: 4em;
+    font-weight: 680;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio-carousel {
+    
+    border: 2px solid whitesmoke;
+    
+    background-color: whitesmoke;
+    
+    
+  }
+  
+  .portfolio-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    flex-direction: row;
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  
+  .portfolio-text {
+    flex: 1;
+    padding: 20px;
+    text-align: left;
+    font-family: "Bona Nova SC", serif;
+    
+  }
+
+  
+  
+  .carousel-wrapper {
+    flex: 1;
+    max-width: 50%;
+  }
+  
+  .carousel .slide img {
+    width: 100%;
+    height: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .portfolio-section {
+      height: 50vh;
+    }
+    .portfolio-content {
+      padding-left: 0px;
+    }
+    .portfolio-section h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+      padding-top: 50px;
+    }
+    .portfolio-item {
+      flex-direction: column;
+      text-align: center;
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    .carousel-wrapper {
+      max-width: 100%;
+    }
+    .portfolio-text {
+      text-align: center;
+    }
+    .portfolio-text p {
+      font-size: 0.7em;
+    }
+  }
+  

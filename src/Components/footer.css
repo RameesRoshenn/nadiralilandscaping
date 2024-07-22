@@ -1,0 +1,95 @@
+.footer {
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    box-sizing: border-box;
+  }
+  
+  
+  .company-name1 {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    line-height: 1;
+    letter-spacing: 5px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    
+    
+  }
+  
+  
+  .company-name1 .logo
+   {
+    opacity: 0.2;
+    transition: opacity 0.3s ease;
+  }
+  
+  
+  .company-name1:hover .logo,
+  .company-name1:hover .brand-text {
+    opacity: 1;
+  }
+  .company-name1:hover .brand-text {
+    color: black; 
+  }
+  
+  .company-name1 .brand-text {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .copyright {
+    position: absolute;
+    bottom: 10px; 
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+  }
+  
+  .social-media a {
+    margin-left: 10px;
+    font-size: 1.5em;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+    color: black;
+  }
+  
+  .social-media a:hover {
+    opacity: 2;
+  }
+  
+  @media (max-width: 768px) {
+    .footer {
+      flex-direction: column;
+      align-items: center;
+      height: auto;
+      text-align: center;
+     
+    }
+  
+    .company-name1,
+    .social-media {
+      margin-bottom: 10px;
+    }
+  
+    .copyright {
+      position: static;
+      transform: none;
+      text-align: center;
+      width: 100%;
+      white-space: nowrap; 
+      
+     }
+  }
+  
+  

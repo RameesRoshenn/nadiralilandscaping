@@ -1,0 +1,81 @@
+{
+    "Portfoliodata":[
+        {
+            "title": "Al Naseem C1 Villa 46",
+            "location": "Mudon",
+            "description": "We completed comprehensive landscaping services in this location, which included removing garbage pickup, fixing new tiles with running metier price, and filling new sweet sand. Additionally, we applied plaster to the Tabuk wall and fixed tiles on the top side. Our team also installed an automatic irrigation pipe, ensuring efficient and consistent watering for the landscaped area.",
+            "images": [
+             
+              "./portfoliopic/img2.jpg",
+              "./portfoliopic/img3.jpg",
+              "./portfoliopic/img4.jpg"
+             
+            ]
+        },
+        {
+            "title": "The Mark House Villa 23",
+            "location": "White Field",
+            "description": "We transformed this location with our comprehensive landscaping services, including fixing planter boxes with cladding tiles, supplying and installing marble tiles for the garden, setting up an automatic irrigation system for plants, installing LED lights for tiles, and providing and installing palm trees. Our team ensured a seamless and beautiful integration of all elements, enhancing the aesthetic and functionality of the space.",
+            "images": [
+              "./portfoliopic/img6.jpg",
+              "./portfoliopic/img7.jpg",
+              "./portfoliopic/img10.jpg",
+              "./portfoliopic/img11.jpg",
+              "./portfoliopic/img12.jpg",
+              "./portfoliopic/img14.jpg"
+
+            ]
+        },
+        {
+          "title": "Arbela-1 Villa 682",
+          "location": "Dubai,UAE",
+          "description": "We provided comprehensive landscaping services in this location, including the removal of garbage, installation of new artificial grass, thorough tile cleaning, and precise tile fixing. Our team ensured the space was transformed into a clean, well-maintained area, enhancing the overall aesthetic and functionality of the landscape.",
+          "images": [
+            "./portfoliopic/img15.jpg",
+            "./portfoliopic/img16.jpg",
+            "./portfoliopic/img17.jpg"
+           
+
+          ]
+      }
+    ],
+    "Gallerydata":[
+      {
+        "image": [
+             
+          "./Gallery/im01.jpg",
+          "./Gallery/im02.jpg",
+          "./Gallery/im03.jpg",
+          "./Gallery/im04.jpg",
+          "./Gallery/im05.jpg",
+          "./Gallery/im06.jpg",
+          "./Gallery/im08.jpg",
+          "./Gallery/im09.jpg",
+          "./Gallery/im10.jpg",
+          "./Gallery/im11.jpg",
+          "./Gallery/im12.jpg",
+          "./Gallery/im13.jpg",
+          "./Gallery/im14.jpg",
+          "./Gallery/im15.jpg",
+          "./Gallery/im17.jpg",
+          "./Gallery/im18.jpg",
+          "./Gallery/im21.jpg",
+          "./Gallery/im22.jpg",
+          "./Gallery/im24.jpg",
+          "./Gallery/im25.jpg",
+          "./Gallery/im26.jpg",
+          "./Gallery/im27.jpg"
+         
+        ],
+        "video":[
+          "./Gallery/vid1.mp4",
+          "./Gallery/vid2.mp4",
+          "./Gallery/vid3.mp4"
+
+        ]
+      }
+
+    ]
+
+    
+}

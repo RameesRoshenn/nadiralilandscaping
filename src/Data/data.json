@@ -1,0 +1,91 @@
+{
+  "Indoordata": [
+    {
+      "id": 1,
+      "title": "Pergola with Sanding & Paint",
+      "description": "Revitalize your pergola with professional sanding and painting services. Transform your space with a smooth finish and a lasting, beautiful color.",
+      "image": "pergola.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kitchen Door Hanging And Fixing",
+      "description": "Ensure your kitchen doors are perfectly aligned and securely attached with our expert door hanging and fixing services. Enjoy smooth operation and a polished look with precision installation and adjustments.",
+      "image": "kitchendoor.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Kitchen Architrave Fixing",
+      "description": "Enhance the elegance of your kitchen with our precise architrave fixing services. Our expert team ensures perfect alignment and secure installation, adding a refined finish to your kitchen's architectural details.",
+      "image": "Architrave.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Stair Door Removal",
+      "description": "Safely and efficiently remove your stair doors with our professional removal services. We ensure a clean and damage-free process, leaving your space open and ready for your next project.",
+      "image": "stairdoor.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Kitchen Cabinet Door Fixing",
+      "description": "Restore the functionality and appearance of your kitchen with our expert cabinet door fixing services. We ensure precise alignment, secure fittings, and smooth operation for all your cabinet doors.",
+      "image": "cabinetdoor.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Drawer Fixing in Kitchen",
+      "description": "Keep your kitchen drawers in top condition with our professional fixing services. We ensure smooth operation, secure fittings, and proper alignment for all your kitchen drawers.",
+      "image": "drawer.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ceiling Paint Works",
+      "description": "Refresh your home with our expert ceiling painting services. We provide a smooth, even finish and use high-quality paint to brighten and enhance any room.",
+      "image": "ceilingpaint.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Door Frame Fixing",
+      "description": "Ensure sturdy and secure door frames with our professional fixing services. We expertly repair and reinforce door frames to maintain functionality and enhance the aesthetic appeal of your home.",
+      "image": "doorframe.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Ceiling Tiles Installation",
+      "description": "Transform your space with our ceiling tiles installation services. Choose from a variety of styles and materials to enhance acoustics, aesthetics, and functionality in any room.",
+      "image": "ceilingtiles.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Glass Installation and Repair Services",
+      "description": "Experience seamless glass services with our expert team. Whether it's removing old glass, filling gaps, or any other glass-related needs, we ensure precision and quality in every installation and repair.",
+      "image": "glass.jpg"
+    }
+    
+  ],
+  "Outdoordata": [
+    {
+      "id": 1,
+      "title": "Automatic Irrigation Systems",
+      "description": "Upgrade your landscape with our automatic irrigation systems. Enjoy efficient water management and lush, healthy plants with our expert installation and maintenance services.",
+      "image": "irrigation.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Wall Painting Services",
+      "description": "Transform your space with our professional wall painting services. Choose from a wide range of colors and finishes to create a personalized look that enhances the beauty and atmosphere of your home or office.",
+      "image": "wallpaint.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Electronic Works Services",
+      "description": "From installations to repairs, our electronic works services cover a wide range of needs. Trust our skilled technicians to handle everything from wiring and fixture installations to troubleshooting and repairs, ensuring your home or office remains safe and functional.",
+      "image": "electronic.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Topper Pergola with Waterproof Sheet",
+      "description": "Elevate your outdoor space with our Topper Pergola featuring a waterproof sheet. Enjoy enhanced protection from the elements while adding style and functionality to your garden or patio. Our expert installation ensures durability and aesthetic appeal, perfect for year-round enjoyment.",
+      "image": "topper.jpg"
+    }
+  ]
+}
